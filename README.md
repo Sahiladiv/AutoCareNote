@@ -1,6 +1,6 @@
-# Medical Assistant AI
+# AutoCareNote AI
 
-Medical Assistant AI is an AI-powered assistant for clinics that automates **SOAP note generation** and creates **empathetic patient summaries**.  
+This is an AI-powered assistant for clinics that automates **SOAP note generation** and creates **empathetic patient summaries**.  
 The goal is to reduce administrative burden so providers can focus more on patient care.
 
 ---
