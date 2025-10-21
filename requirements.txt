@@ -1,0 +1,8 @@
+langchain
+langgraph
+groq
+streamlit
+reportlab
+python-docx
+python-dotenv
+mysql-connector-python
